@@ -28,4 +28,4 @@ Model achieved high accuracy in predicting survival.
 
 
 ## 👨‍💻 Author
-Manish Kumar
+Anand Rajput
